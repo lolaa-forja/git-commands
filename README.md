@@ -10,7 +10,7 @@
 - Salvar o pacote usando "git commit -m 'mensagem'"
 
 # Enviar pacotes ao github
-- git pull
+- git push
 
 # Receber pacotes do github
 - git pull 
